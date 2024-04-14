@@ -1,0 +1,155 @@
+[
+    {
+      "productName": "Laptop",
+      "description": "High-performance laptop for professional use.",
+      "category": "Electronics",
+      "price": 999,
+      "productImage": "https://source.unsplash.com/featured/?laptop",
+      "brandName": "Brand X"
+    },
+    {
+      "productName": "Smartphone",
+      "description": "Latest smartphone with advanced features.",
+      "category": "Electronics",
+      "price": 699,
+      "productImage": "https://source.unsplash.com/featured/?smartphone",
+      "brandName": "Brand Y"
+    },
+    {
+      "productName": "Headphones",
+      "description": "High-quality headphones for immersive audio experience.",
+      "category": "Electronics",
+      "price": 99,
+      "productImage": "https://source.unsplash.com/featured/?headphones",
+      "brandName": "Brand Z"
+    },
+    {
+      "productName": "Tablet",
+      "description": "Portable tablet for productivity on the go.",
+      "category": "Electronics",
+      "price": 299,
+      "productImage": "https://source.unsplash.com/featured/?tablet",
+      "brandName": "Brand X"
+    },
+    {
+      "productName": "Gaming Console",
+      "description": "Next-generation gaming console for immersive gaming experience.",
+      "category": "Electronics",
+      "price": 499,
+      "productImage": "https://source.unsplash.com/featured/?gamingconsole",
+      "brandName": "Brand Y"
+    },
+    {
+      "productName": "Camera",
+      "description": "Professional camera for capturing stunning photographs.",
+      "category": "Electronics",
+      "price": 799,
+      "productImage": "https://source.unsplash.com/featured/?camera",
+      "brandName": "Brand Z"
+    },
+    {
+      "productName": "Wireless Earbuds",
+      "description": "Bluetooth wireless earbuds for seamless music experience.",
+      "category": "Electronics",
+      "price": 79,
+      "productImage": "https://source.unsplash.com/featured/?earbuds",
+      "brandName": "Brand X"
+    },
+    {
+      "productName": "Fitness Tracker",
+      "description": "Fitness tracker to monitor your health and workouts.",
+      "category": "Electronics",
+      "price": 129,
+      "productImage": "https://source.unsplash.com/featured/?fitnesstracker",
+      "brandName": "Brand Y"
+    },
+    {
+      "productName": "Printer",
+      "description": "High-quality printer for printing documents and photos.",
+      "category": "Electronics",
+      "price": 199,
+      "productImage": "https://source.unsplash.com/featured/?printer",
+      "brandName": "Brand Z"
+    },
+    {
+      "productName": "External Hard Drive",
+      "description": "External hard drive for storing large amounts of data.",
+      "category": "Electronics",
+      "price": 89,
+      "productImage": "https://source.unsplash.com/featured/?externalharddrive",
+      "brandName": "Brand X"
+    },
+    {
+      "productName": "Monitor",
+      "description": "High-resolution monitor for crisp and clear display.",
+      "category": "Electronics",
+      "price": 299,
+      "productImage": "https://source.unsplash.com/featured/?monitor",
+      "brandName": "Brand Y"
+    },
+    {
+      "productName": "Router",
+      "description": "Wireless router for high-speed internet connectivity.",
+      "category": "Electronics",
+      "price": 69,
+      "productImage": "https://source.unsplash.com/featured/?router",
+      "brandName": "Brand Z"
+    },
+    {
+      "productName": "Keyboard",
+      "description": "Ergonomic keyboard for comfortable typing experience.",
+      "category": "Electronics",
+      "price": 49,
+      "productImage": "https://source.unsplash.com/featured/?keyboard",
+      "brandName": "Brand X"
+    },
+    {
+      "productName": "Mouse",
+      "description": "Optical mouse for precise cursor control.",
+      "category": "Electronics",
+      "price": 29,
+      "productImage": "https://source.unsplash.com/featured/?mouse",
+      "brandName": "Brand Y"
+    },
+    {
+      "productName": "Speakers",
+      "description": "High-fidelity speakers for immersive audio experience.",
+      "category": "Electronics",
+      "price": 129,
+      "productImage": "https://source.unsplash.com/featured/?speakers",
+      "brandName": "Brand Z"
+    },
+    {
+      "productName": "Power Bank",
+      "description": "Portable power bank for charging your devices on the go.",
+      "category": "Electronics",
+      "price": 39,
+      "productImage": "https://source.unsplash.com/featured/?powerbank",
+      "brandName": "Brand X"
+    },
+    {
+      "productName": "Webcam",
+      "description": "High-definition webcam for video conferencing and streaming.",
+      "category": "Electronics",
+      "price": 59,
+      "productImage": "https://source.unsplash.com/featured/?webcam",
+      "brandName": "Brand Y"
+    },
+    {
+      "productName": "USB Flash Drive",
+      "description": "Portable USB flash drive for storing and transferring data.",
+      "category": "Electronics",
+      "price": 19,
+      "productImage": "https://source.unsplash.com/featured/?usbflashdrive",
+      "brandName": "Brand Z"
+    },
+    {
+      "productName": "Wireless Mouse",
+      "description": "Wireless mouse for convenient and clutter-free computing.",
+      "category": "Electronics",
+      "price": 49,
+      "productImage": "https://source.unsplash.com/featured/?wirelessmouse",
+      "brandName": "Brand X"
+    }
+  ]
+  
